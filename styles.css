@@ -1,0 +1,108 @@
+.lancamentos{
+    background-color:#b9bdc0fd;
+    padding: 30px;
+}
+.lancamentos1{
+    background-color:#b9bdc0fd;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.emdestaque{
+    background-color:#f5f9fdfd;
+    padding: 30px;
+}
+.emdestaqueheader{
+    text-align: start;
+}
+
+.images{
+    padding-top: 30px;
+}
+
+.ultimasavaliacoes{
+    background-color:#f5f9fdfd;
+    padding: 30px;
+}
+.ultimasavaliacoesheader{
+    text-align: start;
+}
+.avaliacoes a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.maisavaliacoes{
+    text-align: right;
+}
+
+.entrevistas_e_makingof{
+    background-color:#abb1b4fd;
+    padding: 30px;
+}
+.entrevistas_e_makingofheader{
+    text-align: start;
+}
+.videos{
+    padding-top: 30px;
+}
+.estreia{
+    text-align: start;
+}
+
+.novidades{
+    background-color:#f5f9fdfd;
+    padding: 30px;
+}
+.novidadesheader{
+    text-align: start;
+}
+.newsimg{
+    vertical-align: middle;
+}
+
+.sobre{
+    text-align: start;
+}
+
+.direitosautorais{
+    text-align: start;
+}
+
+.backtotop{
+    text-align: end;
+}
+
+.logobottom{
+    text-align: end;
+}
+
+.editorialheader{
+    text-align: start;
+}
+
+.redesicons{
+    margin-left: -15px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: start;
+}
+.redesicons a:link{
+    color: #000;
+}
+.redesicons a:visited{
+    color: #000;
+}
+
+.tags{
+    background-color:#abb1b4fd;
+    border-radius: 25px;
+}
+
+footer {
+    background: #343a40;
+    padding: 40px;
+}
+footer a {
+    color: #f8f9fa!important;
+}
